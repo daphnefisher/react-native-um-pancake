@@ -1,5 +1,5 @@
 #import "RNUmPancake.h"
-#import <RNUrbanHappy/RNUMConfigure.h>
+#import "RNUMConfigure.h"
 #import <UMPush/UMessage.h>
 
 @implementation RNUmPancake
